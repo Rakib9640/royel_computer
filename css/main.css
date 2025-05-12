@@ -1,0 +1,30 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.logo_size {
+    height: 47px !important;
+    height: 56px !important;
+}
+.hover_s:hover{
+    background-color: #7cf6b2;
+    
+    border-radius: 3%;
+    box-shadow: 4px 4px  4px #305c44
+    
+    
+}
+.img_hover:hover{
+    height: 50rem;
+    width: 50rem;
+}
+/* ==============galary============= */
+.img_box{
+    width: 30%;
+    height: 300px;
+}
